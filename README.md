@@ -106,3 +106,19 @@ localStorage.getItem('userId')
 
   
 Gabung [Channel Telegram](https://t.me/gutaiming) sekarang dan dapatkan banyak info garapan mudah tapi JP Maksimal.
+
+## Donasi
+
+Jika Anda ingin mendukung pengembangan channel ini, Anda dapat memberikan donasi melalui alamat berikut:
+
+- **Solana**: `#########`
+- **EVM**: `0xaF00AFE8937dfc19e04833e7279B3C695d344352`
+- **XRP**: `rJUZprqjEc9V844Eo3d9jLp34cvTtxpckd`
+
+## License
+
+Proyek ini dilisensikan di bawah Lisensi MIT - lihat file [LISENSI](LICENSE) untuk detailnya.
+
+## Kontribusi
+Jika Anda merasa proyek ini bermanfaat, mohon pertimbangkan untuk memberikannya bintang di GitHub! Dukungan dapat memotivasi pengembangan dan peningkatan lebih lanjut.
+Terima Kasih.
